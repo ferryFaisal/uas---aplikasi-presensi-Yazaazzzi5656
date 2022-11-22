@@ -131,6 +131,7 @@ if (mysqli_num_rows($result) > 0) {
               <div class="col-md-4">
                 <div class="form-label-group">
                   <select name="presensi" id="presensi" class="form-control" autofocus="autofocus">
+                  <option value=""> -- Pilih Kehadiran  -- </option>
                       <option value="Hadir"> Hadir </option>
                       <option value="Sakit"> Sakit </option>
                       <option value="Izin"> Izin </option>

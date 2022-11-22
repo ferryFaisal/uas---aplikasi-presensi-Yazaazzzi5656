@@ -120,7 +120,7 @@ if ($_SESSION['role'] == "Admin") {
 }
 ?>
             <li class="nav-item">
-                <a class="nav-link" href="mahasiswa.php.php">
+                <a class="nav-link" href="mahasiswa.php">
                     <i class="fas fa-fw fa-table"></i>
                     <span>Table Mahasiswa</span></a>
             </li>
